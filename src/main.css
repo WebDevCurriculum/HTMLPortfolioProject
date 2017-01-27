@@ -9,17 +9,21 @@ font-family: 'Open Sans Condensed', sans-serif;
 h1 {
     color: white;
     position: absolute; 
-    top: 300px; 
-    bottom: 0;  
+    top: 200px; 
+    bottom: 0;
+    left: 500px;
     
 }
-img {
+/*.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}*/
+.img-responsive {
     position: relative;
-    height: 20%;
+    height: 400px;
     width: 100%;
-    z-index: -1; 
-     
-    
+    z-index: -1;         
 }
 .tagline {
     
