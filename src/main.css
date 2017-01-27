@@ -9,14 +9,13 @@ font-family: 'Open Sans Condensed', sans-serif;
 h1 {
     color: white;
     position: absolute; 
-    top: 0; 
-    bottom: 0; 
-    right: 0; 
+    top: 300px; 
+    bottom: 0;  
     
 }
 img {
     position: relative;
-    height: 100%;
+    height: 20%;
     width: 100%;
     z-index: -1; 
      
