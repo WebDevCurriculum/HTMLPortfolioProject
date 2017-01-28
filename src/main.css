@@ -1,17 +1,17 @@
 body {
     font-family: 'Roboto Mono', monospace;
-font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
-
-.header {
-    
+.container {
+    margin: 2em;
 }
 h1 {
     color: white;
     position: absolute; 
-    top: 200px; 
+    top: 160px; 
     bottom: 0;
-    left: 500px;
+    left: 510px;
+    font-size: 4em;
     
 }
 /*.img-responsive {
